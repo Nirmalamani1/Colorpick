@@ -1,10 +1,10 @@
 import React from 'react'
-import Colorpick from './Components/Colorpick.jsx'
+import New from './Components/New.jsx'
 
 function App() {
   return (
     <>
-    <Colorpick />
+    <New />
     </>
   )
 }
